@@ -254,6 +254,7 @@ VALUES (:_name, :_email);
             //)";
             var createTables = @"
 -- Table: public.sellers
+CREATE SEQUENCE IF NOT EXISTS sellers_id_seq;
 ALTER SEQUENCE IF EXISTS sellers_id_seq RESTART WITH 1;
 CREATE TABLE IF NOT EXISTS public.sellers
 (
@@ -267,6 +268,7 @@ ALTER TABLE IF EXISTS public.sellers
     OWNER to postgres;
 
 -- Table: public.buyers
+CREATE SEQUENCE IF NOT EXISTS buyers_id_seq;
 ALTER SEQUENCE IF EXISTS buyers_id_seq RESTART WITH 1;
 CREATE TABLE IF NOT EXISTS public.buyers
 (
@@ -280,6 +282,7 @@ ALTER TABLE IF EXISTS public.buyers
     OWNER to postgres;
 
 -- Table: public.Orders
+CREATE SEQUENCE IF NOT EXISTS orders_id_seq;
 ALTER SEQUENCE IF EXISTS orders_id_seq RESTART WITH 1;
 CREATE TABLE IF NOT EXISTS public.orders
 (

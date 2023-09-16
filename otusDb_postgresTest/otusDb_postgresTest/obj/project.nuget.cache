@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "xuxAjrkY8aYYXtV1JUIhCb4mIe3bXts6qS6Sf6WaU9soQ0n0gw7fYfsfdkaASje1lkZxZlBHtO2gecqmRaVSrQ==",
+  "dgSpecHash": "xG0OOwqJcmfh9g1GHMXQAC4m15XDnbYZZNgKE0tlxRnGIM2zK7W5Hj9+3IQHofp/qp+bOkXZll+SJC8X2KMJjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\92439\\source\\repos\\otusDb_postgresTest\\otusDb_postgresTest\\otusDb_postgresTest.csproj",
+  "projectFilePath": "C:\\Users\\goidf\\Source\\Repos\\otusDb_postgresTest_fromGIT\\otusDb_postgresTest\\otusDb_postgresTest\\otusDb_postgresTest.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\92439\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
-    "C:\\Users\\92439\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
-    "C:\\Users\\92439\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+    "C:\\Users\\goidf\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\goidf\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512",
+    "C:\\Users\\goidf\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

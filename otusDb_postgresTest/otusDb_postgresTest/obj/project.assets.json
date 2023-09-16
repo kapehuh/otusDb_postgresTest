@@ -163,24 +163,25 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\92439\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\goidf\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\92439\\source\\repos\\otusDb_postgresTest\\otusDb_postgresTest\\otusDb_postgresTest.csproj",
+      "projectUniqueName": "C:\\Users\\goidf\\Source\\Repos\\otusDb_postgresTest_fromGIT\\otusDb_postgresTest\\otusDb_postgresTest\\otusDb_postgresTest.csproj",
       "projectName": "otusDb_postgresTest",
-      "projectPath": "C:\\Users\\92439\\source\\repos\\otusDb_postgresTest\\otusDb_postgresTest\\otusDb_postgresTest.csproj",
-      "packagesPath": "C:\\Users\\92439\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\92439\\source\\repos\\otusDb_postgresTest\\otusDb_postgresTest\\obj\\",
+      "projectPath": "C:\\Users\\goidf\\Source\\Repos\\otusDb_postgresTest_fromGIT\\otusDb_postgresTest\\otusDb_postgresTest\\otusDb_postgresTest.csproj",
+      "packagesPath": "C:\\Users\\goidf\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\goidf\\Source\\Repos\\otusDb_postgresTest_fromGIT\\otusDb_postgresTest\\otusDb_postgresTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\92439\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\goidf\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
